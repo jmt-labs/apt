@@ -1,0 +1,5 @@
+Component: main
+Origin: jmt-labs
+Label: claude-setup
+Architecture: arm64
+Description: jmt-labs apt repository

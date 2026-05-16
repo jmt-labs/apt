@@ -1,0 +1,15 @@
+Package: claude-setup
+Version: 0.0.2
+Architecture: arm64
+Maintainer: Markus Hartmann <markush1986@gmail.com>
+Installed-Size: 6464
+Homepage: https://github.com/jmt-labs/claude-setup
+Priority: optional
+Section: 
+Filename: pool/main/c/claude-setup/claude-setup_0.0.2_arm64.deb
+Size: 2727632
+SHA256: cf947bff7c82c15e4b7f5621d5b97346f7c24922e595cfb442a99d58e5d41a70
+SHA1: cc8b971807887c78429bf780d9010d67b73c75ed
+MD5sum: e317829e0e18b0bf9431644848a91841
+Description: Reproducible Claude Code setup for any repository.
+

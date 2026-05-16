@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: jmt-labs
+Label: claude-setup
+Codename: stable
+Date: Sat, 16 May 2026 17:21:08 UTC
+Architectures: amd64 arm64
+Components: main
+Description: jmt-labs apt repository
+MD5Sum:
+ 1142eceb8de1aa37179035764cb46a32 544 main/binary-amd64/Packages
+ 21861ed1f6fbaac881a641a57f0df2ee 385 main/binary-amd64/Packages.gz
+ 0c9d611957cd53ebfe7ce9decaa79151 110 main/binary-amd64/Release
+ 62076390abb21011f4f322c429900023 514 main/binary-arm64/Packages
+ 7eba7f8a52820e30cb95d34c97fd3f79 375 main/binary-arm64/Packages.gz
+ 8eec165ffef5d5f218ea892c1febc3bd 110 main/binary-arm64/Release
+SHA1:
+ afcbc0e84c7d13f4d44d20c2c0e95409003a47d0 544 main/binary-amd64/Packages
+ bfa6abeb2fb0e272870cc93f0bd8786b4a56f077 385 main/binary-amd64/Packages.gz
+ 6411d4e5b98023d1d6334087f2a00439cd8bc2b1 110 main/binary-amd64/Release
+ 246dda4196602238f1a11d86478d0f3cb2effef8 514 main/binary-arm64/Packages
+ 72d8131341d62785e9282f27077a6b3899c6b369 375 main/binary-arm64/Packages.gz
+ 46399ea5f924dd47d764fb25f73b17084a2be5dc 110 main/binary-arm64/Release
+SHA256:
+ 87932080ceb51aad0074897938c3e495817898f399e6763ff3cdf633e391d078 544 main/binary-amd64/Packages
+ 6bf98df1d606a7dc8a165861d9518dcb31307327fb25b125f9a8c4fd953b192e 385 main/binary-amd64/Packages.gz
+ 25bb03788c9a810dbbc578566eac29fedfcc2dca1749263ffbb6102a8870a278 110 main/binary-amd64/Release
+ 606bf8a0b55c535f8018dc0f22eebd26dc0f83a045185fd4b67ca6c9ce8fb14e 514 main/binary-arm64/Packages
+ 0ff7128849e6b83588d805d5b67085623bbc1e44ea15c48d4d5ae09ace05ac0d 375 main/binary-arm64/Packages.gz
+ 252e5e29343800fd462e6e67dc527728431ab1f2275493c641887181ad591d34 110 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEXN2potkdNKPbVwg/Ud6xpskTbuwFAmoIp4QACgkQUd6xpskT
+buwLIA/9HJfCjHZO9WxPFj4pXqFpdB9DQBpuOVvGiKYWN7s+x8Ovh5azUVFVEW/D
++tVX3nWiosvNq+TFc6BS8/DR4x2XfZQduxJGi6s8VQ/l8HiODRMrEbT111YET/0b
+SY6OKYeARptFlGaAUau7T6ZrR/TCGm96+T7Zt3b4D177dUd6NXwAYvXDbvZilzKK
+4ngpgSL3051pcMHg8+egcEICEQolpbLKZuhRcDk3i+28DYpkg6MFir9Aa4QI+9Yf
+l8AaCL093WmcojxkOvpChnqsWZ270Kx1KVuNIXXLv8pBq8OFhs1XDzG7sHahMEa2
+dyBTrKOYuNz5jOkJg86V+v+213RZ7yfBh4g/Vqo884jX60RAjSMRDSGC5PCYbTh2
+2Ek2o3i4bc2X1h74SZ5VxwD+n+5ILcW9OyjlFivXxwtqm8UJy+gV68ueluUfG0E9
+4StnIOSMkgtT6G9hT9ldALGxWb3bPsgCL53KwGj3wnP/+QzhPQG1B616FXfVqpin
+lRGbNPhT+lLVVLQ2qRgUvgvZvQ2GHXBz1jElWdq5mPi+d7wHK/lw8dyPIpK1V+Hd
+qVDOHvgqydk2j7J3CXOnsRP26AaYgSiSUDu7a/IVzVuajZ5xZO38+RG5et91tUje
+IyhEiryR3Rk4U9n6SyuiTBhMoFbmQ0WPQ7/dneLn0936Nczji/I=
+=JZk6
+-----END PGP SIGNATURE-----

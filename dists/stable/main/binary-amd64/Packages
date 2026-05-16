@@ -1,0 +1,16 @@
+Package: claude-setup
+Version: 0.0.2
+Architecture: amd64
+Architecture-Variant: amd64v1
+Maintainer: Markus Hartmann <markush1986@gmail.com>
+Installed-Size: 6884
+Homepage: https://github.com/jmt-labs/claude-setup
+Priority: optional
+Section: 
+Filename: pool/main/c/claude-setup/claude-setup_0.0.2_amd64.deb
+Size: 2976720
+SHA256: 8cf7339d9a221c74c64116de3c4bca49a977634cc17dc5de61eaa75cd5edb6d5
+SHA1: 22eb3fdc97ac17b2e3b356502e90d5e292d90f8a
+MD5sum: c73f374c99dad201ec97eb6c740c496f
+Description: Reproducible Claude Code setup for any repository.
+
