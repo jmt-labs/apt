@@ -4,4 +4,4 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: jmt-labs apt repository
-SignWith: REPLACE_WITH_GPG_KEY_ID
+SignWith: A4A5CD82A2100421
