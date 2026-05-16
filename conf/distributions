@@ -1,0 +1,7 @@
+Origin: jmt-labs
+Label: claude-setup
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: jmt-labs apt repository
+SignWith: REPLACE_WITH_GPG_KEY_ID
