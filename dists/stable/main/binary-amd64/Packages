@@ -1,16 +1,16 @@
-Package: claude-setup
-Version: 0.0.2
+Package: forgecrate
+Version: 0.1.0
 Architecture: amd64
 Architecture-Variant: amd64v1
 Maintainer: Markus Hartmann <markush1986@gmail.com>
-Installed-Size: 6884
-Homepage: https://github.com/jmt-labs/claude-setup
+Installed-Size: 6964
+Homepage: https://github.com/jmt-labs/forgecrate
 Priority: optional
 Section: 
-Filename: pool/main/c/claude-setup/claude-setup_0.0.2_amd64.deb
-Size: 2976720
-SHA256: 8cf7339d9a221c74c64116de3c4bca49a977634cc17dc5de61eaa75cd5edb6d5
-SHA1: 22eb3fdc97ac17b2e3b356502e90d5e292d90f8a
-MD5sum: c73f374c99dad201ec97eb6c740c496f
+Filename: pool/main/f/forgecrate/forgecrate_0.1.0_amd64.deb
+Size: 3038340
+SHA256: 41439d7ffd155244f9d2ac9ad309dfd2822ea2e0aee6805dee48f4876f591c24
+SHA1: 842d2d50aad479b5c0466dc71bd6db968c595741
+MD5sum: 1591a5517f7d0138bca5e5b240677d29
 Description: Reproducible Claude Code setup for any repository.
 

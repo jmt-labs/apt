@@ -1,28 +1,28 @@
 Origin: jmt-labs
 Label: claude-setup
 Codename: stable
-Date: Sat, 16 May 2026 17:21:08 UTC
+Date: Tue, 19 May 2026 14:03:46 UTC
 Architectures: amd64 arm64
 Components: main
 Description: jmt-labs apt repository
 MD5Sum:
- 1142eceb8de1aa37179035764cb46a32 544 main/binary-amd64/Packages
- 21861ed1f6fbaac881a641a57f0df2ee 385 main/binary-amd64/Packages.gz
+ 7956b65353ebed82bd868d3773175e46 536 main/binary-amd64/Packages
+ 36813e30634893f25b9e090108124d10 391 main/binary-amd64/Packages.gz
  0c9d611957cd53ebfe7ce9decaa79151 110 main/binary-amd64/Release
- 62076390abb21011f4f322c429900023 514 main/binary-arm64/Packages
- 7eba7f8a52820e30cb95d34c97fd3f79 375 main/binary-arm64/Packages.gz
+ 248f9a16d7032e0f9a38cee6f267f0dd 506 main/binary-arm64/Packages
+ 62b57d0212cf7b026f2422132101ea33 377 main/binary-arm64/Packages.gz
  8eec165ffef5d5f218ea892c1febc3bd 110 main/binary-arm64/Release
 SHA1:
- afcbc0e84c7d13f4d44d20c2c0e95409003a47d0 544 main/binary-amd64/Packages
- bfa6abeb2fb0e272870cc93f0bd8786b4a56f077 385 main/binary-amd64/Packages.gz
+ f73a8a6f5d88138b1c06c7634f74682da2f1986a 536 main/binary-amd64/Packages
+ 1fce6644f7281ab082a9092cdc56c70bb935d032 391 main/binary-amd64/Packages.gz
  6411d4e5b98023d1d6334087f2a00439cd8bc2b1 110 main/binary-amd64/Release
- 246dda4196602238f1a11d86478d0f3cb2effef8 514 main/binary-arm64/Packages
- 72d8131341d62785e9282f27077a6b3899c6b369 375 main/binary-arm64/Packages.gz
+ dae925b54f5be6b5662aa44290c1ab944e6b1856 506 main/binary-arm64/Packages
+ 37459a8b0a3e6a08554839506983269aca845f8d 377 main/binary-arm64/Packages.gz
  46399ea5f924dd47d764fb25f73b17084a2be5dc 110 main/binary-arm64/Release
 SHA256:
- 87932080ceb51aad0074897938c3e495817898f399e6763ff3cdf633e391d078 544 main/binary-amd64/Packages
- 6bf98df1d606a7dc8a165861d9518dcb31307327fb25b125f9a8c4fd953b192e 385 main/binary-amd64/Packages.gz
+ 7868228674e9f9e11c10ed3c25a936729b7265eb422a3f65646b3e78eb27163f 536 main/binary-amd64/Packages
+ 3d5dd030e46789bdbdad0257f50d1768e59245395020d93d44ab48f4f67ef0d8 391 main/binary-amd64/Packages.gz
  25bb03788c9a810dbbc578566eac29fedfcc2dca1749263ffbb6102a8870a278 110 main/binary-amd64/Release
- 606bf8a0b55c535f8018dc0f22eebd26dc0f83a045185fd4b67ca6c9ce8fb14e 514 main/binary-arm64/Packages
- 0ff7128849e6b83588d805d5b67085623bbc1e44ea15c48d4d5ae09ace05ac0d 375 main/binary-arm64/Packages.gz
+ 57585e3c8187b92a879ac6935bf1a2585c7d91200375639849f20a4bf101d018 506 main/binary-arm64/Packages
+ 244da558f2d2422d3872a6384a4aabf08773c5ac9cae70e099dd51a6e0aed46f 377 main/binary-arm64/Packages.gz
  252e5e29343800fd462e6e67dc527728431ab1f2275493c641887181ad591d34 110 main/binary-arm64/Release
