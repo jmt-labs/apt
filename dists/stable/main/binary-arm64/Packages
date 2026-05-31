@@ -1,15 +1,15 @@
 Package: forgecrate
-Version: 0.4.1
+Version: 0.4.2
 Architecture: arm64
 Maintainer: Markus Hartmann <markush1986@gmail.com>
 Installed-Size: 8000
 Homepage: https://github.com/jmt-labs/forgecrate
 Priority: optional
 Section: 
-Filename: pool/main/f/forgecrate/forgecrate_0.4.1_arm64.deb
-Size: 3219602
-SHA256: 4e453bbc9a28239761b8f21193db88a66b15bd2d58ac2177ad3368306897756c
-SHA1: 162aa8292c777bc2748210ad884e6910b3de50d6
-MD5sum: 057acc7a8624181bcd5868ffe11ca3b2
+Filename: pool/main/f/forgecrate/forgecrate_0.4.2_arm64.deb
+Size: 3222330
+SHA256: 12bbe406c0b88e6a4736a8c45b63f84f6387345b95b558ee3960786443b2c7e8
+SHA1: d63d3df261abdc2b1c20f019aa40506c132d3cdd
+MD5sum: 7554792dbcc15082949ed1bc15f06fc2
 Description: Reproducible Claude Code setup for any repository.
 
